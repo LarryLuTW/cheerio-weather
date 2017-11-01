@@ -1,5 +1,7 @@
 # cheerio-weather
 
+## Blog Post: [用 cheerio 抓取即時天氣](https://medium.com/larry-blog/node-js-%E7%94%A8-cheerio-%E6%8A%93%E5%8F%96%E5%8D%B3%E6%99%82%E5%A4%A9%E6%B0%A3-70d30a900615)
+
 ## How to run this
 
 clone and go into this repository
