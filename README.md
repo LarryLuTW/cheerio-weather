@@ -6,19 +6,19 @@
 
 clone and go into this repository
 
-```
+```sh
 git clone https://github.com/Larry850806/cheerio-weather
 cd cheerio-weather
 ```
 
 install dependencies and run
 
-```
+```sh
 npm install
 node index.js
 ```
 
-result
+### result
 
 ```js
 [ 
